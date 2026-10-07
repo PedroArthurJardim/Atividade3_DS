@@ -1,4 +1,4 @@
-package com.suaapi.model;
+package com.apipa.model;
 
 public class Livro {
 
