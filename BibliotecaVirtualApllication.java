@@ -1,4 +1,4 @@
-package com.suaapi;
+package com.apipa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
