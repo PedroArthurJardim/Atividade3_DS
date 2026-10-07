@@ -1,6 +1,6 @@
-package com.suaapi.controller;
+package com.apipa.controller;
 
-import com.suaapi.model.Livro;
+import com.apipa.model.Livro;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.http.HttpStatus;
